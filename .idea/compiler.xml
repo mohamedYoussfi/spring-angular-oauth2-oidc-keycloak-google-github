@@ -10,6 +10,7 @@
         <module name="enset-sdia-app" />
         <module name="customer-front-thymeleaf-app" />
         <module name="inventory-service" />
+        <module name="spring-angular-oauth2-oidc-keycloak-google-github" />
       </profile>
     </annotationProcessing>
   </component>
